@@ -146,6 +146,10 @@ header {
 	margin: 0 50px 20px;	
 }
 
+.right__wrap {
+	width: 250px;
+}
+
 .address__title{
 	margin-left: 40px;	
 }
